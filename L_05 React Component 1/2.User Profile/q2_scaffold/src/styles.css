@@ -1,0 +1,26 @@
+/* Write code for your CSS here */
+body{
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+}
+.hero{
+    font-size: large;
+    line-height:30px;
+}
+.name{
+    font-weight: bolder;
+}
+
+li{
+    display:inline-block;
+    list-style-type: none;
+    padding-right: 20px;
+    background-color: aqua;
+    
+}
+.para{
+    text-align: center;
+}
+
+
